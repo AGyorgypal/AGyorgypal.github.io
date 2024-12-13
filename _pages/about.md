@@ -1,14 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-About me
-======
 I am a T32 Post-doctoral research fellow at Harvard Medical School and Massachussets General Hospital, where I worked with [Robert M Anthony]([url](https://scholar.google.com/citations?user=3xN1qSIAAAAJ&hl=en&oi=ao)), and Michelle E. Conroy, at the Center for Immunology and Inflammatory Diseases. My research explores the role and regulation of IgG and IgE glycosylation in health and disease. 
 
 Antibodies are complex: IgG is highly effective at triggering inflammation and is essential for defense from infections and cancer. Allergen-specific IgE is absolutely required for allergic symptoms and disease, yet not all individuals with allergen-specific IgE suffer from allergies. My work in the [Anthony lab ]([url](https://rmanthonylab.mgh.harvard.edu/))looks at unveiling the interplay between IgG and IgE antibdoies in health and disease with the overarching goal to development strategies that target and modulate glycans on antibodies to enabling antibody engineering in-vivo and ex-vivo to treat immunological disease such as cancer.
