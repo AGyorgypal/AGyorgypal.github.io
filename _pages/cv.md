@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biochemical Engineering, Rutgers The State Univeristy of New Jersey, 2018
+* B.S. in Chemical Engineering, New Jersey Institute of Technology | Albert Dormal Honors College, 2012
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023 - Present: Post-doctoral Fellow 
+  * Massachussets General Hospital, Harvard Medical School
+  * Advisors: Robert M. Anthony, Ph.D., Michelle Conroy, M.D.
+  * Project: Understanding the influences of IgG, and IgE glycosylation in immunological diseases
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2015 - May 2018: Graudate Research Associate
+  * Rutgers University, School of Engineering 
+  * Project: Enabling and investigating real-time monoclonal antibody N-linked glycosylation for upstream processing of biotherapeutics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
