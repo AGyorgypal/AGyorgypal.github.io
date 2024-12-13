@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Biochemical Engineering, Rutgers The State Univeristy of New Jersey, 2018
 * B.S. in Chemical Engineering, New Jersey Institute of Technology | Albert Dormal Honors College, 2012
-
+  
 Research experience
 ======
 * June 2023 - Present: Post-doctoral Fellow 
