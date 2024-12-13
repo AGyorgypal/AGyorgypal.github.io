@@ -21,7 +21,7 @@ repository               : "AGyorgypal/agyorgypal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GYORGYPAL.png"
   name             : "Aron Gyorgypal, PhD"
   pronouns         : # example: "she/her"  
   bio              : "T32 Postdoctoral Fellow"
