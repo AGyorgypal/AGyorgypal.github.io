@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biochemical Engineering, Rutgers The State Univeristy of New Jersey, 2018
-* B.S. in Chemical Engineering, New Jersey Institute of Technology | Albert Dormal Honors College, 2012
+* Ph.D in Biochemical Engineering, Rutgers The State Univeristy of New Jersey, 2023
+* B.S. in Chemical Engineering, New Jersey Institute of Technology, 2018
   
 Research experience
 ======
