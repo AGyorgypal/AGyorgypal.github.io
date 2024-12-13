@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Aron Gyorgypal"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aron Gyorgypal"
 description              : &description "personal description"
 url                      : https://agyorgypal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,15 +27,14 @@ author:
   bio              : "T32 Postdoctoral Fellow"
   location         : "Boston, MA, USA"
   employer         : "Harvard Medical School"
-  uri              : # URL
-  email            : "agyorgypal(a)mgh(d)harvard(d)edu." 
+  email            : "agyorgypal@mgh.harvard.edu." 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Y9pOMuEAAAAJ"
   orcid            : "https://orcid.org/0000-0001-6531-5028"
 
   # Social media
-  linkedin         : # arongyorgypal
+  linkedin         :  "arongyorgypal"
 
 
 # Publication Category - The following the list of publication categories and their headings
