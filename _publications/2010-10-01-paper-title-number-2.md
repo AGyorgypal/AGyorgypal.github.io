@@ -3,7 +3,7 @@ title: "Automated instant labeling chemistry workflow for real-time monitoring o
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'we integrated Agilent's Instant Procainamide (InstantPC) based chemistry workflow into the N-GLYcanyzer PAT unit to allow for nearly 10× faster near real-time analysis of mAb glycoforms. Our methodology is explained in detail to allow for replication of the PAT workflow as well as present a case study demonstrating the use of this PAT to autonomously monitor a mammalian cell perfusion process at the bench scale to gain increased knowledge of mAb glycosylation dynamics during continuous biologics manufacturing using Chinese hamster ovary (CHO) cells.'
+excerpt: 'we integrated Agilent's Instant Procainamide based chemistry workflow into the N-GLYcanyzer PAT unit to allow for nearly 10× faster near real-time analysis of mAb glycoforms. Our methodology is explained in detail to allow for replication of the PAT workflow as well as present a case study demonstrating the use of this PAT to autonomously monitor a mammalian cell perfusion process at the bench scale to gain increased knowledge of mAb glycosylation dynamics during continuous biologics manufacturing using Chinese hamster ovary cells.'
 date: 2023-05-18
 venue: 'Reaction Chemistry & Engineering'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/re/d2re00568a/'
