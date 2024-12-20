@@ -6,8 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Here, we developed an online sequential-injection-based PAT system, called N-GLYcanyzer, which can rapidly monitor mAb glycosylation during upstream biomanufacturing.'
 date: 2022-04-06
 venue: 'Analytical Chemistry'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c05396'
 citation: 'Gyorgypal, A., & Chundawat, S. P. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
