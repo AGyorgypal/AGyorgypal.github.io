@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Recent advances in integrated process analytical techniques, modeling, and control strategies to enable continuous biomanufacturing of monoclonal antibodies"
 collection: publications
-category: Reviews
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: Conferences
+#permalink: 'https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jctb.6765'
+excerpt: 'This review article summarizes the recent advances and ongoing obstacles faced during the use of advanced process analytical technologies (PAT), process modeling, and control strategies to enable continuous manufacturing of mAbs. In addition, this review also discusses the process strategies and future directions of advanced continuous manufacturing approaches that have been adapted by other industries and that could be implemented for mAbs production soon.'
+date: 2021-04-21
+venue: 'Journal of Chemical Technology & Biotechnology'
+paperurl: 'https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jctb.6765'
+citation: 'YChopda, V., Gyorgypal, A., Yang, O., Singh, R., Ramachandran, R., Zhang, H., ... & Ierapetritou, M. G. (2021). &quot;Journal of Chemical Technology & Biotechnology.&quot; <i>Journal of Chemical Technology & Biotechnology</i>. 97(9), 2317-2335.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Continuous bioprocessing is significantly changing the biological drugs (or biologics) manufacturing landscape by potentially improving product quality, process stability, and overall profitability, as was similarly seen during the adoption of advanced manufacturing processes for small molecule drugs in the past decade. However, the implementation of continuous manufacturing for biological processes producing protein-based drug molecules, such as monoclonal antibodies (mAbs), is facing several new hurdles. The barriers to continuous bioprocessing can be overcome through improved process understanding via better predictive capabilities enabled by hybrid modeling that can also lead to robust process control. This review article summarizes the recent advances and ongoing obstacles faced during the use of advanced process analytical technologies (PAT), process modeling, and control strategies to enable continuous manufacturing of mAbs. In addition, this review also discusses the process strategies and future directions of advanced continuous manufacturing approaches that have been adapted by other industries and that could be implemented for mAbs production soon.
+
+--- 
