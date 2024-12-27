@@ -45,6 +45,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  reviews:
+    title: 'Review papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -181,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  patents:
+    outlput: true
+    permalink: /:collection/:path/
   #portfolio:
    # output: false
     #permalink: /:collection/:path/
@@ -209,7 +214,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+      
+   _teaching
   - scope:
       path: ""
       type: teaching
@@ -218,7 +224,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _publications
+   _publications
   - scope:
       path: ""
       type: publications
@@ -227,7 +233,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  _portfolio
  # - scope:
  #     path: ""
  #     type: portfolio
@@ -236,10 +242,18 @@ defaults:
  #     author_profile: false
  #     share: false
  #     comment: false
-  # _talks
+   _talks
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+   _patents
+  - scope:
+      path: ""
+      type: patents
     values:
       layout: talk
       author_profile: true
