@@ -5,7 +5,7 @@ category: manuscripts
 # permalink: https://www.cell.com/heliyon/fulltext/S2405-8440(24)01543-3
 excerpt: ' We found that the single-use optical pH sensors were generally less accurate than the electrochemical probes, especially in detecting large pH drifts from the setpoint.'
 date: 2024-02-15
-venue: 'Heliyon'
+venue: '[Heliyon](https://www.cell.com/heliyon/home)'
 paperurl: https://www.cell.com/heliyon/fulltext/S2405-8440(24)01543-3
 citation: 'Fratz-Berilla, E. J., Kohnhorst, C., Trunfio, N., Bush, X., <b> Gyorgypal, A., </b> & Agarabi, C. (2024). &quot; Evaluation of single-use optical and electrochemical pH sensors in upstream bioprocessing.&quot; <i> Heliyon</i>. 10(3).'
 ---
