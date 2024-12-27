@@ -2,7 +2,7 @@
 title: "Recent Advances in Biologic Therapeutic N-Glycan Preparation Techniques and Analytical Methods for Facilitating Biomanufacturing Automation"
 collection: publications
 category: manuscripts
-permalink: 'https://www.sciencedirect.com/science/article/abs/pii/S002235492300014X'
+# permalink: 'https://www.sciencedirect.com/science/article/abs/pii/S002235492300014X'
 excerpt: 'we discuss recent advances in mAb sample preparation specifically focused on denaturation, enzymatic processing, and released glycans derivatization methods. Additionally, we review the recent advances in characterization of released and intact N-glycans using chromatography, capillary electrophoresis, and mass spectrometry techniques with a focus on rapid, automated approaches that support analysis of glycosylation profiles of biopharmaceuticals.'
 date: 2023-01-11
 venue: 'Journal of Pharmaceutical Sciences'
