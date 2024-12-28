@@ -197,34 +197,34 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
 #   _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
+  - scope:
+      path: ""
+      type: posts
+     values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 #   _pages
-#    - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
+    - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
       
  #  _teaching
- # - scope:
- #     path: ""
- #     type: teaching
- #   values:
- #     layout: single
- #     author_profile: false
- #     share: false
- #     comments: false
-   _publications
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
+ #  _publications
     - scope:
       path: ""
       type: publications
@@ -234,30 +234,30 @@ defaults:
       share: true
       comments: true
 #  _portfolio
-#  - scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: false
-#      share: false
-#      comment: false
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
 #   _talks
-#  - scope:
-#      path: ""
- #     type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 #   _patents
-#  - scope:
-#      path: ""
-#      type: patents
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
