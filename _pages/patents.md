@@ -1,0 +1,3 @@
+---
+permalink: /patents/
+title: "Patents"
