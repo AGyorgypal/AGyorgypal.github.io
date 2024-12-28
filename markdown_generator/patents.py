@@ -74,7 +74,7 @@ for row, item in patents.iterrows():
     
     md += """collection: patents"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    md += """\npermalink: /patents/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -93,7 +93,7 @@ for row, item in patents.iterrows():
     ## Markdown description for individual page
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n\n<a href='" + item.paper_url + "'>Download patent here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
