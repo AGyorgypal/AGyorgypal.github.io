@@ -11,7 +11,7 @@ citation: '<b>Gyorgypal, A.,</b> & Chundawat, S. P. (2024). &quot;Automated real
 
 <br/><img src='/files/GLYCanyzer.png'>
 
-At least some embodiments disclosed here may be directed to design and implementation of a novel PAT tool for real-time (or near real-time) online N-glycosylation analysis through the use of sequential injection analysis (SIA) coupled with liquid chromatography; rapid and robust N-glycosylation monitoring during N-glycosylated protein (e.g., monoclonal antibody) bioprocessing enabled by instant, sensitive labeling chemistry; and systems thereof.
+<b>Summary:</b> At least some embodiments disclosed here may be directed to design and implementation of a novel PAT tool for real-time (or near real-time) online N-glycosylation analysis through the use of sequential injection analysis (SIA) coupled with liquid chromatography; rapid and robust N-glycosylation monitoring during N-glycosylated protein (e.g., monoclonal antibody) bioprocessing enabled by instant, sensitive labeling chemistry; and systems thereof.
 
 ---
 
@@ -52,4 +52,6 @@ This patent application describes an innovative method and system for real-time,
 •	Supports the development of personalized biologic therapies 
 
 This innovation represents a significant advancement in biopharmaceutical manufacturing technology, addressing critical challenges in product quality control, process efficiency, and regulatory compliance. It has the potential to accelerate the development of new biologics and improve the consistency and quality of existing products, shaping the future of biological drug production.
+
+---
 
