@@ -16,4 +16,4 @@ I serve as a [Scientific Advisor](https://www.technologynetworks.com/tn/scientif
 I reciveved my PhD in Biochemical Engineering from the [Department of Chemical Engineering](https://cbe.rutgers.edu/) at Rutgers University. My doctoral research focused on engineering a system to [study and control N-linked glycosylation](https://rucore.libraries.rutgers.edu/rutgers-lib/70295/) of monoclonal antibodies for the biomanufacture of immunotherapies. This innovative system, which I developed, was subsequently patented under the name “[N-Glycanyzer](https://patents.google.com/patent/US20240110925A1/en)". I served as an [ORISE Fellow](https://orise.orau.gov/FDA/index.html) at the Food and Drug Administration’s Center for Drug Evaluation and Research (FDA-CDER) where I had validating the N-Glycanyzer system, demonstrating its practical applications in a regulatory environment.
 
 
-Get in touch at -  agyorgypal(a)mgh(d)harvard(d)edu
+Get in touch at  agyorgypal(a)mgh(d)harvard(d)edu
