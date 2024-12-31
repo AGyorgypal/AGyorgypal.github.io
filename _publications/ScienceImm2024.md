@@ -1,5 +1,5 @@
 ---
-title: "TAM-ing the beast with IL-34 blockade."
+title: "TAM-ing the beast with IL-34 blockade"
 collection: publications
 category: manuscripts
 excerpt: "FOCIS Highlight: TP53 mutation triggers IL-34 secretion by cancer stem cells, reprogramming macrophages to suppress T cells and promote tumor immune escape. <br/>"
